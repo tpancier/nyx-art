@@ -3,10 +3,10 @@
 A few definitions before we start:
 
 
-**Individuation**: process to achieve a sense of individuality that separates the individual from others.<br/>
-**Generative art**: a process of algorithmically generating new ideas, forms, shapes, colors or patterns, based on a set of rules that provide boundaries for the creation process. In the NFT (web3) world, it means that the artist provide a set of traits (images) and an algorithm randomizes these traits and creates one-of-one art (no 2 final art pieces are the same).<br/>
-**Soul**: As participants of the experiment did their individuation, they received an NFT ERC-721 token called “Soul”, with their personality traits represented on the token art.<br/>
-**Ferrymen**: generative art (NFT ERC-721) token given to Soul holders who participated on the experiment.<br/>
+**Individuation**: process to achieve a sense of individuality that separates the individual from others. <br/>
+**Generative art**: a process of algorithmically generating new ideas, forms, shapes, colors or patterns, based on a set of rules that provide boundaries for the creation process. In the NFT (web3) world, it means that the artist provide a set of traits (images) and an algorithm randomizes these traits and creates one-of-one art (no 2 final art pieces are the same). <br/>
+**Soul**: As participants of the experiment did their individuation, they received an NFT ERC-721 token called “Soul”, with their personality traits represented on the token art. <br/>
+**Ferrymen**: generative art (NFT ERC-721) token given to Soul holders who participated on the experiment. <br/>
 
 
 ## Introduction
