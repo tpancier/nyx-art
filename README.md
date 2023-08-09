@@ -53,7 +53,27 @@ Example of trait:
 <img width="286" alt="Soul trait" src="https://github.com/community/community/assets/19897750/c279738b-eae6-47d7-9c5b-9bfb23a2028c">
 
 
-Example of final art:
+Example of final art (tokens in OpenSea):
 
-<img width="654" alt="Soul final art" src="https://github.com/community/community/assets/19897750/9cb2ef28-06c8-4b6d-8991-c04597e8ca63">
+<img width="1058" alt="souls final art" src="https://github.com/community/community/assets/19897750/2d7aee95-5d9b-4c93-90c2-0ecf14ad54b1">
+
+OpenSea collection: https://opensea.io/collection/nyx-ai?search[stringTraits][0][name]=State&search[stringTraits][0][values][0]=Soulbind
+
+## Ferrymen creation
+
+
+Ferrymen art was created with a generative art algorithm, randomizing almost 300 trait images, broken into 2 characters (Tempest and Oblivion) and more than 10 groups (background, hair, hat, clothing, skin among others). The logic for this part of the project is unique. Due to the complexity of the art, the traits exception handling had to be coded and offer an interface to be easily customized.
+
+Example of trait:
+
+<img width="638" alt="cloth trait 2" src="https://github.com/community/community/assets/19897750/96729588-23cd-4a2f-b16d-28de9f6ab5ce">
+
+
+Example of final art (tokens in OpenSea):
+
+<img width="1061" alt="ferrymen final art" src="https://github.com/community/community/assets/19897750/7de7dedd-4eaf-46b8-85fa-7fc0d9b79d27">
+
+
+OpenSea collection: https://opensea.io/collection/the-ferrymen
+
 
