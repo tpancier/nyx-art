@@ -1,4 +1,4 @@
-# nyx-art
+# nyx on-chain generative art
 
 A few definitions before we start:
 
