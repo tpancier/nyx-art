@@ -45,7 +45,7 @@ The code created by this project and used to generate the Souls art is innovativ
 Example of metadata (json file):
 
 <img width="806" alt="metadata" src="https://github.com/tpancier/nyx-art/assets/19897750/0077a732-c32c-4b5e-ab2b-fadaf37e9d2a">
-<br/>
+<br/><br/>
 
 Example of trait:
 
