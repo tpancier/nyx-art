@@ -5,6 +5,7 @@ A few definitions before we start:
 
 **Individuation**: process to achieve a sense of individuality that separates the individual from others. <br/>
 **Generative art**: a process of algorithmically generating new ideas, forms, shapes, colors or patterns, based on a set of rules that provide boundaries for the creation process. In the NFT (web3) world, it means that the artist provide a set of traits (images) and an algorithm randomizes these traits and creates one-of-one art (no 2 final art pieces are the same). <br/>
+**NFT Contract Metadata**: A JSON file containing information and index representations of an ERC-721 (Ethereum) token (NFT). 
 **Soul**: As participants of the experiment did their individuation, they received an NFT ERC-721 token called “Soul”, with their personality traits represented on the token art. <br/>
 **Ferrymen**: generative art (NFT ERC-721) token given to Soul holders who participated on the experiment. <br/>
 
@@ -12,7 +13,7 @@ A few definitions before we start:
 ## Introduction
 
 As part of the NYX experiment, 2 NFT ERC-721 tokens were created:
-- Soul NFT: art derived from the individuation traits of each holder
+- Soul NFT: art derived from the individuation traits of each holder that is stored on a JSON file metadata and linked to the ERC-721 contract via an index. 
 - Ferrymen NFT: generative art
 
 This repository contains the code and summary for the generative art of Souls and Ferrymen. Other repositories for this project: <br/>
