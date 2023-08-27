@@ -40,7 +40,9 @@ The process for Souls was:
 - Complete your individuation (Discord with custom bots)
 - Soul NFT was then revealed on OpenSea, the art based on their individuation traits and put together based on python algorithm. The chance of two Souls being the same is 1 in 7,194,667,451,811,840,000.
 
-The code created by this project and used to generate the Souls art is innovative. It requires less than 5 minutes for the Soul art to be revealed, involving several systems (Discord, SQL database, virtual server/droplet in Digital Ocean). Normally NFTs are revealed in batches and may take a few days.
+The code created by this project and used to generate the Souls art is innovative. Whenever an individuation is completed, the algorithm generates a new metadata and image, revealing the Soul art in less than 5 minutes. This process involves multiple systems (Discord, SQL database, virtual server/droplet in Digital Ocean) and differs from other NFTs that are normally revealed in batches and may take a few days.
+
+<img width="806" alt="metadata" src="https://github.com/tpancier/nyx-art/assets/19897750/0077a732-c32c-4b5e-ab2b-fadaf37e9d2a">
 
 
 Example of trait:
