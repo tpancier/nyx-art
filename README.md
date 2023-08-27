@@ -20,8 +20,8 @@ Machine Learning: https://github.com/tpancier/nyx-ml <br/>
 node.js: https://github.com/tennydesign/nyx
 <br/><br/>
 Jupyter notebooks in this repository:<br/>
-Souls generation: [Souls_Gen_Final](https://github.com/tpancier/nyx-art/blob/main/Souls_Gen_Final.py)<br/>
-Ferryment generation: [Ferrymen_Gen_Final](https://github.com/tpancier/nyx-art/blob/main/Ferrymen_Gen_Final.ipynb)
+Souls generation: [Souls_Gen_Final.py](https://github.com/tpancier/nyx-art/blob/main/Souls_Gen_Final.py)<br/>
+Ferryment generation: [Ferrymen_Gen_Final.ipynb](https://github.com/tpancier/nyx-art/blob/main/Ferrymen_Gen_Final.ipynb)
 <br/><br/>
 Project webpage: https://nyxsoul.webflow.io/
 
