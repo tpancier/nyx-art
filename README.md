@@ -25,7 +25,7 @@ Ferryment generation: [Ferrymen_Gen_Final.ipynb](https://github.com/tpancier/nyx
 <br/><br/>
 Project webpage: https://nyxsoul.webflow.io/
 
-For more information about the research behind this project: [nyxxp medium](https://nyxxp.medium.com/this-is-a-research-on-possible-ways-to-digitize-the-human-soul-using-jungian-theory-psychometrics-ead7f7ad4632)https://nyxxp.medium.com/this-is-a-research-on-possible-ways-to-digitize-the-human-soul-using-jungian-theory-psychometrics-ead7f7ad4632
+For more information about the research behind this project: [nyxxp medium](https://nyxxp.medium.com/this-is-a-research-on-possible-ways-to-digitize-the-human-soul-using-jungian-theory-psychometrics-ead7f7ad4632)
 
 ## Architecture
 
